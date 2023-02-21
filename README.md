@@ -6,5 +6,5 @@ Selected academic work & projects
 - [Semantic Document Search Engine with TF-IDF](https://github.com/yiyutao22/Semantic-Search-Engine)
 - [Office Hours+ Web-Based Appointment Scheduling System](https://github.com/yiyutao22/Office-Hours)
 - [Airlines Customer Segmentation Analysis](https://github.com/yiyutao22/Airlines-Customer-Segmentation)
-- [Walmart Sales Forecasting](https://github.com/yiyutao22/Sales-Demand-Forecasting/blob/main/README.md)
+- [Walmart Sales Forecasting](https://github.com/yiyutao22/Sales-Demand-Forecasting)
 - []()
